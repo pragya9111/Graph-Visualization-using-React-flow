@@ -43,6 +43,10 @@ An interactive graph visualization application built with React Flow, Redux, and
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
+## Live Preview
+
+Check out the live version of the project! [View Live Demo](https://graph-visualization-using-react-flow.vercel.app/)
+
 ## Project Structure
 
 ```
